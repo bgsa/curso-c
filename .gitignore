@@ -1,3 +1,21 @@
+*.user
+.vs
+
+CursoC/Debug
+CursoC/Release
+
+CursoC/HelloWorld/Debug
+CursoC/HelloWorld/Release
+
+CursoC/Operadores/Debug
+CursoC/Operadores/Release
+
+CursoC/TiposDeDados/Debug
+CursoC/TiposDeDados/Release
+
+CursoC/VariaveisQualificadores/Debug
+CursoC/VariaveisQualificadores/Release
+
 # Prerequisites
 *.d
 
