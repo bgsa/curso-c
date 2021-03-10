@@ -2,8 +2,9 @@
 
 int main()
 {
-    // incremento prefixo e sufixo
+    setlocale(LC_ALL, "portuguese"); // usado para exibir acentuação no output da console
 
+    // incremento prefixo e sufixo
     int i = 1;
     std::cout << "i: " << i << std::endl;
 

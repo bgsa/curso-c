@@ -16,6 +16,12 @@ CursoC/TiposDeDados/Release
 CursoC/VariaveisQualificadores/Debug
 CursoC/VariaveisQualificadores/Release
 
+CursoC/Conversao/Debug
+CursoC/Conversao/Release
+
+CursoC/Sentencas/Debug
+CursoC/Sentencas/Release
+
 # Prerequisites
 *.d
 
