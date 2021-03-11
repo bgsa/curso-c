@@ -28,6 +28,9 @@ CursoC/ArraysString/Release
 CursoC/Ponteiros/Debug
 CursoC/Ponteiros/Release
 
+CursoC/Funcao/Debug
+CursoC/Funcao/Release
+
 # Prerequisites
 *.d
 
