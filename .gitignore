@@ -22,6 +22,12 @@ CursoC/Conversao/Release
 CursoC/Sentencas/Debug
 CursoC/Sentencas/Release
 
+CursoC/ArraysString/Debug
+CursoC/ArraysString/Release
+
+CursoC/Ponteiros/Debug
+CursoC/Ponteiros/Release
+
 # Prerequisites
 *.d
 
