@@ -31,6 +31,15 @@ CursoC/Ponteiros/Release
 CursoC/Funcao/Debug
 CursoC/Funcao/Release
 
+CursoC/Estruturas/Debug
+CursoC/Estruturas/Release
+
+CursoC/ConsoleIO/Debug
+CursoC/ConsoleIO/Release
+
+CursoC/FileIO/Debug
+CursoC/FileIO/Release
+
 # Prerequisites
 *.d
 
