@@ -40,6 +40,9 @@ CursoC/ConsoleIO/Release
 CursoC/FileIO/Debug
 CursoC/FileIO/Release
 
+CursoC/DiretivasHeader/Debug
+CursoC/DiretivasHeader/Release
+
 # Prerequisites
 *.d
 
