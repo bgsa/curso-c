@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{91ebe7cb-2cd9-49c5-ba81-d715e509a5d4}</ProjectGuid>
-    <RootNamespace>Operadores</RootNamespace>
+    <ProjectGuid>{9c3c7637-180c-466c-950a-376166246579}</ProjectGuid>
+    <RootNamespace>Classes</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -147,7 +147,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Operadores.cpp" />
+    <ClCompile Include="Aluno.cpp" />
+    <ClCompile Include="Classes.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Aluno.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
